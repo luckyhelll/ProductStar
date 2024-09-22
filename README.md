@@ -22,3 +22,5 @@ URL: http://localhost:5000/api/v1/posts
 Получение всех постов (GET):
 
 URL: http://localhost:5000/api/v1/posts
+mkdir blog_api
+cd blog_api
